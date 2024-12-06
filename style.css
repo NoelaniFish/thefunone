@@ -22,13 +22,12 @@ img:hover {
  }
  
 body {
-    background-image: url('indx/bg.JPG');
+    background-image: url('/indx/bg.JPG');
     background-size: cover;
     /* background-position: Window; */
      font-family: 'Satoshi', sans-serif !important;
     color: #ffffff;
     line-height: 1.6;
-
    
 }
 
