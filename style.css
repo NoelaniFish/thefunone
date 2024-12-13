@@ -22,7 +22,9 @@ img:hover {
  }
  
 body {
+
     background-image: url('illo/9.png');
+
     background-size: cover;
     /* background-position: Window; */
      font-family: 'Satoshi', sans-serif !important;
