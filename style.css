@@ -22,7 +22,7 @@ img:hover {
  }
  
 body {
-    background-image: url('/indx/bg2.JPG');
+    background-image: url('indx/bg2.JPG');
     background-size: cover;
     /* background-position: Window; */
      font-family: 'Satoshi', sans-serif !important;
