@@ -12,7 +12,7 @@ let g = 63;
 let b = 53;
 
 // Variables for eye movement
-let eyeMovement = 0;
+let eyeMovement = 0; //hey now
 let eyeSpeed = 0.1;
 
 function setup() {
